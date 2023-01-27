@@ -1,4 +1,4 @@
-[1:52 pm, 27/01/2023] RIZWAN(os): #include <stdio.h>
+ #include <stdio.h>
 
 void implimentBestFit(int blockSize[], int blocks, int processSize[], int proccesses)
 {
